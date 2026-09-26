@@ -71,7 +71,7 @@ Các nhóm người dùng chính:
 ## 4.2. Yêu cầu phi chức năng (Non-Functional Requirements)
 * Giao diện: Hiển thị chuẩn, tương thích mượt mà trên cả Laptop/Desktop và thiết bị di động.
 
-*Bảo mật & Xác thực: Phân quyền người dùng chặt chẽ.
+* Bảo mật & Xác thực: Phân quyền người dùng chặt chẽ.
 
 * Lưu trữ & Dữ liệu: Sử dụng CSDL quan hệ đảm bảo tính toàn vẹn dữ liệu.
 
