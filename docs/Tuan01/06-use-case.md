@@ -48,6 +48,7 @@ Hệ thống gồm các tác nhân chính:
 
 ## 6.3. Quan hệ Use Case chính
 
+```text
 KHÁCH HÀNG
    │
    ├── Đăng ký / Đăng nhập
@@ -76,6 +77,7 @@ QUẢN TRỊ VIÊN
    ├── Quản lý đơn đặt
    ├── Phân công nhân viên
    └── Thống kê / Doanh thu
+```
 
 ## 6.4. Use Case tổng quát
 
