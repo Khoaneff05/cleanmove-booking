@@ -4,8 +4,6 @@
 
 **Tên đề tài:** Phân tích, thiết kế, xây dựng và triển khai hệ thống Web đặt lịch và quản lý dịch vụ vệ sinh, vận chuyển theo yêu cầu.
 
-Đề tài được thực hiện trong khuôn khổ học phần **Thực tập công nghiệp**, nhằm xây dựng một hệ thống Web hỗ trợ việc cung cấp và quản lý các dịch vụ vệ sinh, vận chuyển theo yêu cầu.
-
 Hệ thống cho phép khách hàng tìm hiểu các dịch vụ, gửi yêu cầu sử dụng dịch vụ trực tuyến và theo dõi quá trình xử lý. Đồng thời, hệ thống hỗ trợ nhân viên và quản lý trong việc tiếp nhận yêu cầu, báo giá, phân công nhân viên, cập nhật trạng thái và quản lý lịch sử thực hiện dịch vụ.
 
 ## 1.2. Bối cảnh và vấn đề
@@ -137,9 +135,3 @@ Hệ thống được xây dựng nhằm đạt các mục tiêu chính:
 * Lưu trữ lịch sử sử dụng dịch vụ.
 * Cung cấp dashboard và thống kê cơ bản phục vụ quản lý.
 * Xây dựng hệ thống Web có giao diện responsive và có khả năng triển khai trên Internet.
-
-## 1.9. Phạm vi định hướng
-
-Trong giai đoạn đầu, hệ thống tập trung vào các chức năng cốt lõi gồm quản lý tài khoản, quản lý dịch vụ, đặt dịch vụ, tiếp nhận yêu cầu, báo giá, xác nhận, phân công nhân viên, cập nhật trạng thái, quản lý lịch sử và thống kê cơ bản.
-
-Các chức năng nâng cao như thanh toán trực tuyến, định vị GPS, tối ưu tuyến đường và tự động tính giá vận chuyển không thuộc phạm vi bắt buộc của phiên bản cơ bản và chỉ được xem xét bổ sung khi các chức năng cốt lõi đã hoàn thiện.
