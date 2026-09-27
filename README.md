@@ -105,3 +105,20 @@ cleanmove-booking/
 │── Images                                       # Hình ảnh sơ đồ
 │
 └── .gitignore
+
+```text
+cleanmove-booking/
+│
+├── README.md                   # Tài liệu giới thiệu dự án
+├── .gitignore                  # Cấu hình bỏ qua các file không cần commit
+│
+├── docs/                       # Thư mục tài liệu
+│   ├── Images/                 # Hình ảnh sơ đồ (Use Case, ERD,...)
+│   └── Tuan01/                 # Tài liệu Tuần 1
+│       ├── 01-mo-ta-bai-toan.md
+│       ├── 02-pham-vi-he-thong.md
+│       ├── 03-yeu-cau-chuc-nang.md
+│       ├── 04-yeu-cau-phi-chuc-nang.md
+│       ├── 05-quy-trinh-nghiep-vu.md
+│       └── 06-use-case.md
+```
