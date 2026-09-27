@@ -89,31 +89,15 @@ Các nhóm người dùng chính:
 | 8    | Hoàn thiện và bàn giao                | Chưa thực hiện |
 
 ## 7. Cấu trúc thư mục dự án
-cleanmove-booking/
-│
-├── README.md                                    # Tài liệu giới thiệu dự án
-│
-├── docs/
-│   └── Tuan01/                                  # Tuần 1
-│       ├── 01-mo-ta-bai-toan.md
-│       ├── 02-pham-vi-he-thong.md
-│       ├── 03-yeu-cau-chuc-nang.md
-│       ├── 04-yeu-cau-phi-chuc-nang.md
-│       ├── 05-quy-trinh-nghiep-vu.md
-│       └── 06-use-case.md
-│
-│── Images                                       # Hình ảnh sơ đồ
-│
-└── .gitignore
 
 ```text
 cleanmove-booking/
 │
 ├── README.md                   # Tài liệu giới thiệu dự án
-├── .gitignore                  # Cấu hình bỏ qua các file không cần commit
+├── .gitignore
 │
 ├── docs/                       # Thư mục tài liệu
-│   ├── Images/                 # Hình ảnh sơ đồ (Use Case, ERD,...)
+│   ├── Images/                 # Hình ảnh sơ đồ
 │   └── Tuan01/                 # Tài liệu Tuần 1
 │       ├── 01-mo-ta-bai-toan.md
 │       ├── 02-pham-vi-he-thong.md
