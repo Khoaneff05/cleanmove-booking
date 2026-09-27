@@ -1,3 +1,0 @@
-git add .
-git commit -m "docs: add folder structure with gitkeep"
-git push origin main
