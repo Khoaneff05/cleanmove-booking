@@ -23,6 +23,7 @@ Các nhóm người dùng chính:
 
 ## 3. Quy trình nghiệp vụ chính
 
+```text
 [Khách hàng] Gửi yêu cầu đặt dịch vụ
        │
        ▼
@@ -39,6 +40,7 @@ Các nhóm người dùng chính:
        │
        ▼
 [Nhân viên/Quản lý] Cập nhật trạng thái ➔ Hoàn thành đơn
+```
 
 ## 4. Chức năng chính
 ## 4.1. Yêu cầu chức năng (Functional Requirements)
