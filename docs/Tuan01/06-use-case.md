@@ -34,7 +34,7 @@ Hệ thống gồm các tác nhân chính:
 * Xem thông tin khách hàng và đơn hàng.
 
 ### Quản trị viên
-
+ 
 * Đăng nhập quản trị.
 * Quản lý khách hàng.
 * Quản lý nhân viên.
