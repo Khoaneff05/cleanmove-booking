@@ -94,7 +94,7 @@ Các nhóm người dùng chính:
 cleanmove-booking/
 │
 ├── README.md                   # Tài liệu giới thiệu dự án
-├── .gitignore                  # Cấu hình bỏ qua file thừa
+├── .gitignore
 │
 ├── docs/
 │   └── Tuan01/                 # Tài liệu Tuần 1
