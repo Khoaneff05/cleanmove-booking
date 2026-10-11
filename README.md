@@ -82,8 +82,8 @@ Các nhóm người dùng chính:
 | Tuần | Nội dung                              | Trạng thái     |
 | ---- | ------------------------------------- | -------------- |
 | 1    | Khảo sát bài toán và xác định yêu cầu | Đã thực hiện   |
-| 2    | Phân tích và thiết kế hệ thống        | Đang thực hiện |
-| 3    | Xây dựng nền tảng hệ thống            | Chưa thực hiện |
+| 2    | Phân tích và thiết kế hệ thống        | Đã thực hiện   |
+| 3    | Xây dựng nền tảng hệ thống            | Đang thực hiện |
 | 4    | Xây dựng chức năng quản lý dữ liệu    | Chưa thực hiện |
 | 5    | Xây dựng nghiệp vụ đặt lịch           | Chưa thực hiện |
 | 6    | Hoàn thiện nghiệp vụ và thống kê      | Chưa thực hiện |
@@ -116,4 +116,11 @@ cleanmove-booking/
 │   │    ├── 04-thiet-ke-bang.md
 │   │    ├── 05-quy-trinh-nghiep-vu.md
 │   │    └── 05-thiet-ke-giao-dien.md
+│   │
+│   ├──Tuan03/                   # Tài liệu Tuần 3
+│   │    ├── Images/             # Thư mục chứa hình ảnh
+│   │    ├── 01-hoan-thien-thiet-ke-co-so-du-lieu.md
+│   │    ├── 02-thiet-ke-kien-truc-he-thong.md
+│   │    ├── 03-xay-dung-backend-api.md
+│   │    ├── 04-hoan-thien-giao-dien-frontend.md
 ```
