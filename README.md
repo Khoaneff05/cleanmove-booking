@@ -123,4 +123,9 @@ cleanmove-booking/
 │   │    ├── 02-thiet-ke-kien-truc-he-thong.md
 │   │    ├── 03-xay-dung-backend-api.md
 │   │    ├── 04-hoan-thien-giao-dien-frontend.md
+│   │  
+│   ├──Tuan04/                   # Tài liệu Tuần 4
+│   │    ├── 01-hoan-thien-backend-api.md
+│   │    ├── 02-tich-hop-frontend-backend.md
+│   │    ├── 03-kiem-thu-chuc-nang.md
 ```
