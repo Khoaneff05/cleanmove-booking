@@ -235,15 +235,15 @@ Các nhóm kiểm thử được bao gồm trong bộ test hiện có:
 
 | Hạng mục                                    | Kết quả                |
 |---------------------------------------------|------------------------|
-| Khởi động backend và kết nối MySQL ---------| Thành công             |
-| Truy xuất danh sách dịch vụ ----------------| Đạt                    |
-| Từ chối yêu cầu thiếu token ----------------| Đạt                    |
-| Từ chối token không hợp lệ -----------------| Đạt                    |
-| Từ chối tài khoản sai vai trò --------------| Đạt                    |
+| Khởi động backend và kết nối MySQL          | Thành công             |
+| Truy xuất danh sách dịch vụ| Đạt                    |
+| Từ chối yêu cầu thiếu token | Đạt                    |
+| Từ chối token không hợp lệ| Đạt                    |
+| Từ chối tài khoản sai vai trò | Đạt                    |
 | Cho phép tài khoản staff truy cập API staff | Đạt                    |
-| Bộ kiểm thử tự động hiện có ----------------| 32/32 test pass        |
-| Kiểm thử toàn bộ API với frontend ----------| Chưa xác nhận hoàn tất |
-| Rà soát toàn bộ quy tắc nghiệp vụ booking --| Cần tiếp tục           |
+| Bộ kiểm thử tự động hiện có | 32/32 test pass        |
+| Kiểm thử toàn bộ API với frontend | Chưa xác nhận hoàn tất |
+| Rà soát toàn bộ quy tắc nghiệp vụ booking | Cần tiếp tục           |
 
 ## 8. Những vấn đề cần tiếp tục rà soát
 
