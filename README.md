@@ -83,8 +83,8 @@ Các nhóm người dùng chính:
 | ---- | ------------------------------------- | -------------- |
 | 1    | Khảo sát bài toán và xác định yêu cầu | Đã thực hiện   |
 | 2    | Phân tích và thiết kế hệ thống        | Đã thực hiện   |
-| 3    | Xây dựng nền tảng hệ thống            | Đang thực hiện |
-| 4    | Xây dựng chức năng quản lý dữ liệu    | Chưa thực hiện |
+| 3    | Xây dựng nền tảng hệ thống            | Đã thực hiện   |
+| 4    | Xây dựng chức năng quản lý dữ liệu    | Đang thực hiện |
 | 5    | Xây dựng nghiệp vụ đặt lịch           | Chưa thực hiện |
 | 6    | Hoàn thiện nghiệp vụ và thống kê      | Chưa thực hiện |
 | 7    | Kiểm thử và triển khai                | Chưa thực hiện |
