@@ -84,7 +84,7 @@ Các nhóm người dùng chính:
 | 1    | Khảo sát bài toán và xác định yêu cầu | Đã thực hiện   |
 | 2    | Phân tích và thiết kế hệ thống        | Đã thực hiện   |
 | 3    | Xây dựng nền tảng hệ thống            | Đã thực hiện   |
-| 4    | Xây dựng chức năng quản lý dữ liệu    | Đang thực hiện |
+| 4    | Xây dựng chức năng quản lý dữ liệu    | Đã thực hiện   |
 | 5    | Xây dựng nghiệp vụ đặt lịch           | Chưa thực hiện |
 | 6    | Hoàn thiện nghiệp vụ và thống kê      | Chưa thực hiện |
 | 7    | Kiểm thử và triển khai                | Chưa thực hiện |
@@ -127,5 +127,10 @@ cleanmove-booking/
 │   ├──Tuan04/                   # Tài liệu Tuần 4
 │   │    ├── 01-hoan-thien-backend-api.md
 │   │    ├── 02-tich-hop-frontend-backend.md
-│   │    ├── 03-kiem-thu-chuc-nang.md
+│   │    ├── 03-kiem-thu-chuc-nang.
+│   │  
+│   ├──Tuan05/                   # Tài liệu Tuần 5
+│   │    ├── 01-xay-dung-nghiep-vu-dat-lich.md
+│   │    ├── 02-hoan-thien-api-dat-lich.md
+│   │    ├── 03-kiem-thu-nghiep-vu-dat-lich.md
 ```
